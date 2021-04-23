@@ -5,3 +5,5 @@
 **Developer of SkyBlockKeybinds, UniversalBridge, AntiEscrow, and many more modules for ChatTriggers**
 
 **Contributor to NotEnoughUpdates data repo**
+
+**Archivist of Discord Pins**
