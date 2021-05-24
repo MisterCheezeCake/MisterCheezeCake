@@ -6,4 +6,4 @@
 
 **Contributor to NotEnoughUpdates data repo**
 
-**Archivist of Discord Pins**
+
