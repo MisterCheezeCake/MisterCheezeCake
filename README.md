@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCheezeCake&layout=compact)](https://github.com/MisterCheezeCake)
 
-**Developer of SkyBlockKeybinds, UniversalBridge, AntiEscrow, and many more modules for ChatTriggers**
+**Developer of ChangelogAPI, SkyBlockKeybinds, UniversalBridge, AntiEscrow, and many more modules for ChatTriggers**
 
 **Contributor to NotEnoughUpdates data repo**
 
