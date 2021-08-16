@@ -6,4 +6,4 @@
 
 **Contributor to NotEnoughUpdates Data Repo**
 
-**Staff at [NotEnoughUpdates](https://github.com/NotEnoughUpdates)
+** Staff at [NotEnoughUpdates](https://github.com/NotEnoughUpdates) **
