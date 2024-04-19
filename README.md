@@ -4,6 +4,6 @@
 
 **Developer of SkyBlockKeybinds, ChangelogLib, ServerUtilities, UniversalBridge, AntiEscrow, the CT-Pack build tool, and many more modules for ChatTriggers**
 
-**Contributor to NotEnoughUpdates Data Repo**
+**Contributor to the NotEnoughUpdates Data Repo**
 
 **Staff at** **[NotEnoughUpdates](https://github.com/NotEnoughUpdates)**
