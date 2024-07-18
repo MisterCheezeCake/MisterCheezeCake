@@ -2,8 +2,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterCheezeCake&layout=compact)](https://github.com/MisterCheezeCake)
 
-**Developer of SkyBlockKeybinds, ChangelogLib, ServerUtilities, UniversalBridge, AntiEscrow, the CT-Pack build tool, and many more modules for ChatTriggers**
+**Developer of SkyblockTweaks, YellowText, and NoMenuBlur**
 
-**Contributor to the NotEnoughUpdates Data Repo**
+**Creator of SkyblockKeybinds, Universalbridge, ServerUtilities, the CT-Pack build tool, and many more things for ChatTriggers**
 
-**Staff at** **[NotEnoughUpdates](https://github.com/NotEnoughUpdates)**
+**Contributor to and staff at** **[NotEnoughUpdates](https://github.com/NotEnoughUpdates)**
